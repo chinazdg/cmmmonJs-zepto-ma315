@@ -1,0 +1,23 @@
+{
+  "name": "commonjs-zepto-ma315",
+  "version": "1.0.0",
+  "description": "ma315 private zepto module cmmmonJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinazdg/commonJs-zepto-ma315.git"
+  },
+  "keywords": [
+    "zepto",
+    "ma315"
+  ],
+  "author": "chinazdg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chinazdg/commonJs-zepto-ma315/issues"
+  },
+  "homepage": "https://github.com/chinazdg/commonJs-zepto-ma315#readme"
+}
